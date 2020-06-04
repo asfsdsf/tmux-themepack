@@ -80,7 +80,7 @@ documentation on [Font Patching][] to patch the font yourself.
 ![powerline-default-green](https://raw.github.com/jimeh/tmux-themepack-previews/master/powerline/default/green-preview.png)
 
 **Powerline Magenta:**
-
+fLyMd-mAkEr
 ![powerline-default-magenta](https://raw.github.com/jimeh/tmux-themepack-previews/master/powerline/default/magenta-preview.png)
 
 **Powerline Orange:**
